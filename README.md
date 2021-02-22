@@ -1,2 +1,2 @@
-# Python_Exercies
+# Python_Examples
 Python programming exercies
